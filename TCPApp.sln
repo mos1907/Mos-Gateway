@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPApp", "TCPApp.csproj", "{BEE75EFF-44A7-48BE-BEDA-E680397D5149}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C9C99F87-E188-49D2-A323-09FE79F39F8D} = {C9C99F87-E188-49D2-A323-09FE79F39F8D}
+		{F5F3787C-3B12-4822-98BB-D094C61A5F79} = {F5F3787C-3B12-4822-98BB-D094C61A5F79}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTCP", "P:\Other\MosCsharp\SimpleTCP\SimpleTCP.csproj", "{C9C99F87-E188-49D2-A323-09FE79F39F8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mos.Entities", "P:\Other\MosCsharp\Mos.Entities\Mos.Entities.csproj", "{F5F3787C-3B12-4822-98BB-D094C61A5F79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE75EFF-44A7-48BE-BEDA-E680397D5149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE75EFF-44A7-48BE-BEDA-E680397D5149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE75EFF-44A7-48BE-BEDA-E680397D5149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE75EFF-44A7-48BE-BEDA-E680397D5149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C99F87-E188-49D2-A323-09FE79F39F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C99F87-E188-49D2-A323-09FE79F39F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C99F87-E188-49D2-A323-09FE79F39F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C99F87-E188-49D2-A323-09FE79F39F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5F3787C-3B12-4822-98BB-D094C61A5F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F3787C-3B12-4822-98BB-D094C61A5F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F3787C-3B12-4822-98BB-D094C61A5F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F3787C-3B12-4822-98BB-D094C61A5F79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53B403DD-5BB5-4EE3-8942-E19A6C0BBBDF}
+	EndGlobalSection
+EndGlobal
