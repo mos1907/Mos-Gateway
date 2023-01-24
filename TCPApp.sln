@@ -9,9 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPApp", "TCPApp.csproj", "
 		{F5F3787C-3B12-4822-98BB-D094C61A5F79} = {F5F3787C-3B12-4822-98BB-D094C61A5F79}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTCP", "P:\Other\MosCsharp\SimpleTCP\SimpleTCP.csproj", "{C9C99F87-E188-49D2-A323-09FE79F39F8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTCP", "SimpleTCP\SimpleTCP.csproj", "{C9C99F87-E188-49D2-A323-09FE79F39F8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mos.Entities", "P:\Other\MosCsharp\Mos.Entities\Mos.Entities.csproj", "{F5F3787C-3B12-4822-98BB-D094C61A5F79}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mos.Entities", "Mos.Entities\Mos.Entities.csproj", "{F5F3787C-3B12-4822-98BB-D094C61A5F79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
